@@ -1,0 +1,6 @@
+{
+    "name":"quanzhan/zuozhen",
+    "require":{
+         "monolog/monolog": "1.0.*"
+    }
+}
